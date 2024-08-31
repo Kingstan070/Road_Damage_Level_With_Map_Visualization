@@ -5,8 +5,8 @@ This project aims to develop an advanced road condition monitoring system levera
 ## 🌟 Features
 
 - **🎥 Video Frame Preprocessing:** Efficient extraction and preprocessing of frames from dashcam videos.
-- **🔍 Semantic Segmentation:** Applying state-of-the-art models to identify and segment road features.
-- **🕳️ Pothole Detection:** Specialized algorithms for accurate detection and classification of potholes.
+- **🔍 Semantic Segmentation:** Applying segmentation models to identify and segment road features.
+- **🕳️ Pothole Detection:** Detection and classification of potholes.
 - **🌐 GPS Integration:** Synchronizing detected road conditions with GPS coordinates.
 - **🗺️ Heatmap Visualization:** Generating interactive heat maps to visualize road conditions across different regions.
 - **📊 Time Series Analysis:** Tracking changes in road conditions over time for proactive maintenance.
